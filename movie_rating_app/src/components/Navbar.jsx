@@ -17,7 +17,7 @@ return(
 
 <nav className="navbar">
 
-<h2>Movies Date</h2>
+<h2>MovieZone</h2>
 
 <div>
 

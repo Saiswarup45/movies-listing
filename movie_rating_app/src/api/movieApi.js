@@ -1,4 +1,4 @@
-const API_KEY = "675129dd"   
+const API_KEY = import.meta.env.VITE_MOVIE_API_KEY  
 const BASE_URL = "https://www.omdbapi.com/"
 
 
